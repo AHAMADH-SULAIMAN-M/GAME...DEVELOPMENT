@@ -124,4 +124,4 @@ closegraph();
 ![Screenshot 2025-05-11 123711](https://github.com/user-attachments/assets/779f1c4b-c071-4ad7-b695-9175d0b43bf2)
 
 ## Result :
-        Thus, the C program for performing perspective projections of a 3D object along the X, Y, and Z axes was successfully implemented. The output images demonstrate the effect of projecting the 3D object onto different planes based on user input.
+   Thus, the C program for performing perspective projections of a 3D object along the X, Y, and Z axes was successfully implemented. The output images demonstrate the effect of projecting the 3D object onto different planes based on user input.
